@@ -40,7 +40,7 @@ function formatArrayStrings(strings, numbers) {
 
 // Use cases
 // 1
-const stringArray1 = ["hello", "world", "this", "is", "javascript"];
+const stringArray1 = ["Charis", "takes", "her", "medication", "carefully"];
 
 const formattedStrings = formatArrayStrings(stringArray1, processNumbers);
 console.log(formattedStrings); // Output: Both arrays must have the same length
