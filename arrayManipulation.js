@@ -50,4 +50,13 @@ console.log(formattedStrings); // Output: Both arrays must have the same length
 const stringArray2 = ["my", "name", "is", "joseph", "and", "i", "like", "fufu"]
 
 const answer = formatArrayStrings(stringArray2, processNumbers);
-console.log(answer); // Output: Both arrays must have the same length
+console.log(answer);
+
+// output
+/* [
+    'MY',   'name',
+    'IS',   'joseph',
+    'AND',  'i',
+    'LIKE', 'fufu'
+  ]
+   */
